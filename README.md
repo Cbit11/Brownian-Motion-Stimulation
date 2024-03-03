@@ -12,5 +12,7 @@ Steps:
 - The robot starts in the middle of the arena and moves straight at the start.
 - Mostly the robot would keep moving forward. On collision with the boundary, the robot would rotate for a random duration and then keep moving forward in the set direction.
 
+The logic was for the robot to move in straight line and upon the collision with the wall of box, we randomly change the direction of robot to keep it inside the box.
+
 The stimulation was done using pygame and numpy libraries. The code is very easy to understand. Hit me up if you find any
 discrepancy with the code or suggest the improvements. 
